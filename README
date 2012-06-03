@@ -3,4 +3,12 @@ Fancy Decorator is fancy.
 It's a wip 3d decoration tool. Currently a quick proto about my
 living room.
 
+Click a furniture to select it. Then control it by:
+
+A - move left
+D - move right
+S - rotate
+W - move back
+X - move front
+
 -Timo <makimatt@kapsi.fi>
